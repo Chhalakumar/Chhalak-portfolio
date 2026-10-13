@@ -1,7 +1,7 @@
 # 🚀 Chhalak Kumar — Developer Portfolio
 
 Welcome to my portfolio website:  
-🌐 **Live Demo : [Coming Soon]**  
+🌐 **Live Demo: [https://chhalak-portfolio.vercel.app/](https://chhalak-portfolio.vercel.app/)**  
 This site showcases my journey as a Full Stack Developer, MERN Stack specialist, and AI/ML enthusiast.
 
 ![Portfolio Preview](./public/preview.png)
