@@ -41,7 +41,7 @@ const projects = [
     techStack: ["react", "node", "express", "mongo", "socketio", "gemini"],
     gradient: "#14f195, rgb(13, 1, 60)",
     github: "https://github.com/Chhalakumar",
-    live: "https://github.com/Chhalakumar",
+    live: "https://agro-connect-pg5t.vercel.app/",
   },
   {
     title: "StackAssist AI",
